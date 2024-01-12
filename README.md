@@ -82,23 +82,23 @@ https://github.com/luiscoco/Azure_SDK_Sample10_Create_SAS_for_blob
 
 **Sample 21**: How to create an Azure CosmosDB account
 
-
+https://github.com/luiscoco/Azure_SDK_Sample21_Create_CosmosDB_Account
 
 **Sample 22**: How to create an Azure CosmosDB database, a collection and populate it with some documents
 
-
+https://github.com/luiscoco/Azure_SDK_Sample22_Create_CosmosDB_Database_Collection_and_Documents_LEGACY_VERSION
 
 **Sample 23**: Create a CosmosDB database
 
-
+https://github.com/luiscoco/Azure_SDK_Sample22_Create_CosmosDB_Database
 
 **Sample 24**: Create a CosmosDB collection
 
-
+https://github.com/luiscoco/Azure_SDK_Sample23_Create_CosmosDB_Collection
 
 **Sample 25**: Create a Cosmos DB for MongoDB and insert some documents
 
-
+https://github.com/luiscoco/Azure_SDK_Sample24_CosmosDB_for_MongoDB
 
 **Sample 26**: Create an Azure Container Registry (ACR) and deploy with Azure CLI a .NET Web API in Azure ACI
 
@@ -124,7 +124,7 @@ https://github.com/luiscoco/Azure_SDK_Sample10_Create_SAS_for_blob
 
 
 
-Sample 32: How to create a .NET8 WebAPI CRUD Azure CosmosDB Microservice
+**Sample 32**: How to create a .NET8 WebAPI CRUD Azure CosmosDB Microservice
 
 
 
