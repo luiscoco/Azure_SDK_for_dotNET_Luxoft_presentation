@@ -40,4 +40,91 @@ https://github.com/luiscoco/Azure_SDK_Sample9_Create_Blob_Upload_Donwload_File-a
 
 https://github.com/luiscoco/Azure_SDK_Sample10_Create_SAS_for_blob
 
+Sample 11: How to create a Virtual Network 
+
+
+
+Sample 12: How to create a Network Interface NIC
+
+
+
+Sample 13: How to create a Linux VM and install GUI Desktop
+
+
+
+Sample 14: How to create a Windows Server VM with Visual Studio 2022 preinstalled
+
+
+
+Sample 15: List the VMs in a ResourceGroup
+
+
+
+Sample 16: Delete VM in a ResourceGroup
+
+
+
+Sample 17: How to create a Disk in Azure
+
+
+
+Sample 18: List the Disks in a ResourceGroup
+
+
+
+Sample 19: Delete a Disk in a ResourceGroup
+
+
+
+Sample 20: Create a Secret in a Key Vault
+
+
+
+Sample 21: How to create an Azure CosmosDB account
+
+
+
+Sample 22: How to create an Azure CosmosDB database, a collection and populate it with some documents
+
+
+
+Sample 23: Create a CosmosDB database
+
+
+
+Sample 24: Create a CosmosDB collection
+
+
+
+Sample 25: Create a Cosmos DB for MongoDB and insert some documents
+
+
+
+Sample 26: Create an Azure Container Registry (ACR) and deploy with Azure CLI a .NET Web API in Azure ACI
+
+
+
+Sample 27: How to create a ResourceGroup (Application Registration)
+
+
+
+Sample 28: GithubActions How to create from Github an Azure ResourceGroup with Azure SDK for .NET
+
+
+
+Sample 29: How to create Azure ResourceGroup from Azure Function
+
+
+
+Sample 30: How to create Azure App Service Plan and Azure Web App with Azure SDK for .NET
+
+
+
+Sample 31: How to create a .NET8 WebAPI CRUD Azure CosmosDB for MongoDB Microservice
+
+
+
+Sample 32: How to create a .NET8 WebAPI CRUD Azure CosmosDB Microservice
+
+
 
