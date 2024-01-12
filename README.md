@@ -42,43 +42,43 @@ https://github.com/luiscoco/Azure_SDK_Sample10_Create_SAS_for_blob
 
 **Sample 11**: How to create a Virtual Network 
 
-
+https://github.com/luiscoco/Azure_SDK_Sample11_Create_VirtualNetwork/tree/main
 
 **Sample 12**: How to create a Network Interface NIC
 
-
+https://github.com/luiscoco/Azure_SDK_Sample12_Create_NetworkInterface
 
 **Sample 13**: How to create a Linux VM and install GUI Desktop
 
-
+https://github.com/luiscoco/Azure_SDK_Sample13_Create_Linux-VM
 
 **Sample 14**: How to create a Windows Server VM with Visual Studio 2022 preinstalled
 
-
+https://github.com/luiscoco/Azure_SDK_Sample14_Create_VM-WindowsServer-VisualStudio
 
 **Sample 15**: List the VMs in a ResourceGroup
 
-
+https://github.com/luiscoco/Azure_SDK_Sample15_List_VMs_in_a_ResourceGroup
 
 **Sample 16**: Delete VM in a ResourceGroup
 
-
+https://github.com/luiscoco/Azure_SDK_Sample16_Delete_VM_in_a_ResourceGroup
 
 **Sample 17**: How to create a Disk in Azure
 
-
+https://github.com/luiscoco/Azure_SDK_Sample17_Create_Disk
 
 **Sample 18**: List the Disks in a ResourceGroup
 
-
+https://github.com/luiscoco/Azure_SDK_Sample18_List_Disks
 
 **Sample 19**: Delete a Disk in a ResourceGroup
 
-
+https://github.com/luiscoco/Azure_SDK_Sample19_Delete_Disk
 
 **Sample 20**: Create a Secret in a Key Vault
 
-
+https://github.com/luiscoco/Azure_SDK_Sample20_Create_Secret_in_a_Key_Vault
 
 **Sample 21**: How to create an Azure CosmosDB account
 
