@@ -102,29 +102,29 @@ https://github.com/luiscoco/Azure_SDK_Sample24_CosmosDB_for_MongoDB
 
 **Sample 26**: Create an Azure Container Registry (ACR) and deploy with Azure CLI a .NET Web API in Azure ACI
 
-
+https://github.com/luiscoco/Azure_SDK_ACI_Deploy_.NET_7_Web_API
 
 **Sample 27**: How to create a ResourceGroup (Application Registration)
 
-
+https://github.com/luiscoco/Azure_SDK_Create_ResourceGroup_Legacy_Authorization
 
 **Sample 28**: GithubActions How to create from Github an Azure ResourceGroup with Azure SDK for .NET
 
-
+https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET
 
 **Sample 29**: How to create Azure ResourceGroup from Azure Function
 
-
+https://github.com/luiscoco/Azure_SDK_Create_ResourceGroup_from_AzureFunction
 
 **Sample 30**: How to create Azure App Service Plan and Azure Web App with Azure SDK for .NET
 
-
+https://github.com/luiscoco/Azure_SDK_Sample25_Create_AppServicePlan_and_WebApp
 
 **Sample 31**: How to create a .NET8 WebAPI CRUD Azure CosmosDB for MongoDB Microservice
 
-
+https://github.com/luiscoco/MicroServices_dotNET8_CRUD_WebAPI-AzureMongoDB
 
 **Sample 32**: How to create a .NET8 WebAPI CRUD Azure CosmosDB Microservice
 
-
+https://github.com/luiscoco/MicroServices_dotNET8_CRUD_WebAPI-AzureCosmosDB
 
