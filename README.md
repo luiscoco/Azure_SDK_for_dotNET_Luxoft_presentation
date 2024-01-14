@@ -1,4 +1,4 @@
-# Azure SDK presentation and samples
+# Azure SDK for .NET presentation and samples
 
 See this github repo: https://github.com/luiscoco/Azure_SDK_Luxoft_presentation
 
