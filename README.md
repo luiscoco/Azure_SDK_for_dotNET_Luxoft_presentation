@@ -1,4 +1,8 @@
-# Azure SDK Luxoft presentation
+# Azure SDK presentation and samples
+
+See this github repo: https://github.com/luiscoco/Azure_SDK_Luxoft_presentation
+
+Find as follow some **Azure SDK for .NET** examples:
 
 **Sample 1**: How to use DefaultAzureCredential() for uploading a file to an Azure Blob container
 
